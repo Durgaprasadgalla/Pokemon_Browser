@@ -6,7 +6,7 @@ A simple web app that lets users **browse and view details** of Pokémon using t
 
 ## 🚀 Features
 
-- Displays a **paginated list** of Pokémon (20 per page)  
+- Displays a **paginated list** of Pokémon (21 per page)  
 - Allows users to **view Pokémon details** (name, ID, weight, and sprite)  
 - Uses **Fetch API** for data retrieval  
 - Built using **pure HTML, CSS, and JavaScript** — no frameworks required  
@@ -18,7 +18,11 @@ A simple web app that lets users **browse and view details** of Pokémon using t
 pokemon-browser/
 │
 ├── index.html # Main web page
+
+
 ├── style.css # Styling for the app
+
+
 └── script.js # JavaScript logic (fetch & display)
 
 
@@ -28,7 +32,7 @@ pokemon-browser/
 
 1. **Clone this repository** or **download** the ZIP file:
    ```bash
-   git clone https://github.com/your-username/pokemon-browser.git
+   git clone https://durgaprasadgalla.github.io/Pok-mon-_Browser/
 
 Open the project folder:
 
@@ -41,7 +45,7 @@ Run the project by opening index.html in your web browser.
 📡 API Endpoints
 
 Pokémon List:
-https://pokeapi.co/api/v2/pokemon?limit=20&offset=0
+https://pokeapi.co/api/v2/pokemon?limit=21&offset=0
 
 Pokémon Details:
 https://pokeapi.co/api/v2/pokemon/{name}
