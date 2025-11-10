@@ -16,6 +16,8 @@ A simple web app that lets users **browse and view details** of Pokémon using t
 ## 🧩 Project Structure
 
 pokemon-browser/
+
+
 │
 ├── index.html # Main web page
 
