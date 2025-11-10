@@ -19,6 +19,7 @@ pokemon-browser/
 
 
 │
+
 ├── index.html # Main web page
 
 
@@ -34,7 +35,7 @@ pokemon-browser/
 
 1. **Clone this repository** or **download** the ZIP file:
    ```bash
-   git clone https://durgaprasadgalla.github.io/Pok-mon-_Browser/
+   git clone https://durgaprasadgalla.github.io/Pokemon_Browser
 
 Open the project folder:
 
